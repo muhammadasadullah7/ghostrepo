@@ -1,0 +1,2 @@
+# ghostrepo
+Image for ghost
